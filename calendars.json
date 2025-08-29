@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "calendar title",
+    "description": "lorem ipsum dummy text",
+    "color": "calendar color",
+    "calendar_type": "round_robin",
+    "calendar_type_text": "Round Robin",
+    "calendar_type_sub_text": "Power Ranking",
+    "appointments_count": 16,
+    "setters_count": 5,
+    "closers_count": 6,
+    "dispatchers_count": 0,
+    "admins_count": 2,
+    "booking_url": "my-calendar-662",
+    "status": 1,
+    "share_template": "html template"
+  },
+  {
+    "id": 2,
+    "title": "calendar title 2",
+    "description": "lorem ipsum dummy text",
+    "color": "calendar color",
+    "calendar_type": "round_robin",
+    "calendar_type_text": "Round Robin",
+    "calendar_type_sub_text": "Power Ranking",
+    "appointments_count": 16,
+    "setters_count": 5,
+    "closers_count": 6,
+    "dispatchers_count": 0,
+    "admins_count": 2,
+    "booking_url": "my-calendar-662",
+    "status": 1,
+    "share_template": "html template"
+  }
+]
