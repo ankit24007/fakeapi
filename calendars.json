@@ -1,6 +1,18 @@
 {
     "message": "success",
     "result": {
+        "meta": {
+            "request_id": 1234,
+            "timestamp": "2025-09-05",
+            "pagination": {
+                "total": 100,
+                "per_page": 10,
+                "current_page": 1,
+                "last_page": 10,
+                "next_page_url": "page=2",
+                "prev_page_url": null
+            }
+        },
         "data": [
             {
                 "id": 1,
